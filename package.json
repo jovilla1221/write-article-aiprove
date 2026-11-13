@@ -1,0 +1,10 @@
+{
+  "name": "write-article-aiprove",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Article submission and AIProve CLI submit helper for write-article-aiprove",
+  "dependencies": {
+    "ethers": "^6.13.4"
+  }
+}
